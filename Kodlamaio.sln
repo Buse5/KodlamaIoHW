@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlamaio", "Kodlamaio\Kodlamaio.csproj", "{987EBC20-8A24-4D82-A722-8D9084CBDA28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodlamaio", "Kodlamaio\Kodlamaio.csproj", "{987EBC20-8A24-4D82-A722-8D9084CBDA28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{24AD2328-5E04-464A-AE6A-B70B7630505F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{24AD2328-5E04-464A-AE6A-B70B7630505F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{29D7D6F6-86AA-40F6-87A1-A56ACD523930}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{24AD2328-5E04-464A-AE6A-B70B7630505F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24AD2328-5E04-464A-AE6A-B70B7630505F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24AD2328-5E04-464A-AE6A-B70B7630505F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D7D6F6-86AA-40F6-87A1-A56ACD523930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D7D6F6-86AA-40F6-87A1-A56ACD523930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D7D6F6-86AA-40F6-87A1-A56ACD523930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D7D6F6-86AA-40F6-87A1-A56ACD523930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
